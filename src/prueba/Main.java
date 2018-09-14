@@ -9,4 +9,5 @@ public class Main {
 	int a = 0;
 	String var = "asdf";
 	
+	double medio = 0.5;
 }
