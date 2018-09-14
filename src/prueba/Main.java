@@ -8,5 +8,6 @@ public class Main {
 	
 	int a = 0;
 	String var = "asdf";
+	Boolean si = true;
 	
 }
