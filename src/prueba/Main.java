@@ -7,7 +7,7 @@ public class Main {
 	}
 	
 	int a = 0;
-	String var = "asdf";
+	String var = "asdfasdfasdf";
 	
 	double medio = 0.5;
 }
